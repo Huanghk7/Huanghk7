@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SEVEN7</h1>
-<h3 align="center">一个还在小厂实习的Java程序员</h3>
+<h3 align="center">code</h3>
 
 <p align="left">
 </p>
